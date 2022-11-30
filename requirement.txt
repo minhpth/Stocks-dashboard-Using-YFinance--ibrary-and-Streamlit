@@ -1,7 +1,7 @@
 pandas
 numpy
 Pillow
-plotly
+plotly==5.11.0
 matplotlib
 datetime
 yfinance
