@@ -1,8 +1,6 @@
 pandas
 numpy
 Pillow
-plotly==5.11.0
 matplotlib
-datetime
 yfinance
-streamlit
+plotly
